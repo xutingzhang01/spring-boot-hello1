@@ -4,21 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f5711d4-6551-4772-a298-81c74a52a17c" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kfit/test/bean/demo/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kfit/test/web/DemoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kfit/test/web/GlobalDefaultExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kfit/test/web/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/kfit/test/web/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="7f5711d4-6551-4772-a298-81c74a52a17c" name="变更" comment="SpringBoot项目练手&lt;一&gt;">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/bgw.0nwBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/bgw.0nwBAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/db_puyi_advisor.dytjDQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/db_puyi_advisor.dytjDQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/db_puyi_zh.F42trg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/db_puyi_zh.F42trg.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hs_scheduler.hzaUoA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hs_scheduler.hzaUoA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsapi.L03vBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsapi.L03vBQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsbgw.50_vBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsbgw.50_vBQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hscc.qwIxAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hscc.qwIxAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsdpl.dVjvBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsdpl.dVjvBQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsgateway.2Yau2g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsgateway.2Yau2g.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsjg.iAMxAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsjg.iAMxAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hslcs.8XTvBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hslcs.8XTvBQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hslcs_iia.81qG5g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hslcs_iia.81qG5g.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsots.Q4LvBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsots.Q4LvBQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsots_new.pIE7og.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsots_new.pIE7og.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsrba.RovvBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsrba.RovvBQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hstcs.-ZLvBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hstcs.-ZLvBQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hstcs_iia.-zS4jQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hstcs_iia.-zS4jQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hstcs_puyi.W8lRKQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hstcs_puyi.W8lRKQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsups.TZjvBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsups.TZjvBQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsups2.hXEDuA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsups2.hXEDuA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsups_new.roLN2A.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/hsups_new.roLN2A.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/jg.PQ0AAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/jg.PQ0AAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/mysql.osA4Bg.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/92e29a09-5e9e-4434-aa7f-00ab4b6b11ed/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,8 +176,16 @@
       <workItem from="1660717112039" duration="596000" />
       <workItem from="1660717718552" duration="330000" />
       <workItem from="1660718058326" duration="864000" />
-      <workItem from="1660718932973" duration="841000" />
+      <workItem from="1660718932973" duration="1345000" />
     </task>
+    <task id="LOCAL-00001" summary="SpringBoot项目练手&lt;一&gt;">
+      <created>1660720122862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660720122862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +201,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SpringBoot项目练手&lt;一&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringBoot项目练手&lt;一&gt;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
